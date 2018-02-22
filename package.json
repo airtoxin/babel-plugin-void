@@ -1,0 +1,20 @@
+{
+  "name": "babel-plugin-void",
+  "version": "1.0.0",
+  "description": "Throw away your codes 🚮",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airtoxin/babel-plugin-void.git"
+  },
+  "keywords": [],
+  "author": "airtoxin <airtoxin@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/airtoxin/babel-plugin-void/issues"
+  },
+  "homepage": "https://github.com/airtoxin/babel-plugin-void#readme"
+}
